@@ -98,7 +98,3 @@ This is a simulated benchmark, not an experiment with a physical cart–pole. Th
 Exact GPs can become slow as the number of training samples grows. The notebook uses separate scalar-output GPs for the four state increments, so computation increases with both the data size and the number of outputs.
 
 The results should be interpreted within these assumptions. Low one-step error does not necessarily mean that a model will give an accurate long-horizon rollout.
-
-## Acknowledgement and licensing
-
-This is an educational implementation developed from a cart–pole system-identification exercise. If any code, figures, or explanations are adapted from the course material or its teaching repository, add the original source link and follow its attribution and licence terms before publishing.
