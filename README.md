@@ -2,8 +2,6 @@
 
 This repository contains a hands-on implementation of nonlinear system identification using simulated data from a cart–pole system. It compares a neural network, Gaussian Processes, and a physics-informed residual model.
 
-The project is organised as an annotated Jupyter notebook. The mathematical setup is explained before the corresponding code, so the notebook can also be used as a set of study notes.
-
 ## What is included
 
 - A continuous-time, frictionless cart–pole model.
